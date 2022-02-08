@@ -1,0 +1,15 @@
+{
+  "name": "google-cal-api",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.18",
+    "vite": "^2.7.2"
+  }
+}
